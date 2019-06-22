@@ -1,0 +1,20 @@
+5)	Create the Student model:
+	$ php artisan make:model StudentModel
+
+	Create the Fees model:
+	$ php artisan make:model FeesModel
+
+	Create a migration:
+	$ php artisan make:migration create_students_table --create=students
+
+7)	Create the Student Controller:
+	$ php artisan make:controller StudentController
+
+	Create the Fees Controller:
+	$ php artisan make:controller FeesController
+
+	Create the Pages Controller
+	$ php artisan make:controller PagesController
+
+	
+ 
