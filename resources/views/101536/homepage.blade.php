@@ -75,6 +75,7 @@
             <a href="/student">Students</a>
             <a href="/fees">Fees</a>
             <a href="/newstudent">New Student</a>
+            <a href="/fees">Fee payment</a>
         </div>
     </div>
 </div>

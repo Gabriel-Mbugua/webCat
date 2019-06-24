@@ -76,7 +76,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="/home">101536</a>
+    <a class="navbar-brand" href="/">101536</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -84,7 +84,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="/home">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/fees">Fees</a>
@@ -120,6 +120,7 @@
 
                 <label for="student_number">Date of birth</label>
                 <input type="date" class="form-control" id="dob" name="dob" placeholder="dd/mm/yyyy">
+            <br>
 
                 <div class="form-group">
                         <input type="submit" value="Submit" class="btn btn-primary">
